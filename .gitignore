@@ -1,0 +1,35 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+.env
+.env.local
+.env.*.local
+
+# Android
+local.properties
+.gradle/
+build/
+*.apk
+*.aar
+*.ap_
+*.aab
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# System
+.DS_Store
+Thumbs.db
+*.log
+
+# Dependencies
+node_modules/
+jspm_packages/
+
+# Backup files
+*.bak
